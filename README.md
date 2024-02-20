@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bernardobuhrmendonca
-- 👀 I’m interested in learn more computing things and improve that what i already know
+- 👀 I’m interested in learn more computing things and improve that what I already know
 - 🌱 I’m currently learning bioinformatics and about datasets with Python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: bbam2503@gmail.com
