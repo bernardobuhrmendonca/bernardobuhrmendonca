@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: bbam2503@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love eating banana with my lunch 
+- ⚡ Fun fact: i love eat banana with my lunch 
 
 <!---
 bernardobuhrmendonca/bernardobuhrmendonca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
